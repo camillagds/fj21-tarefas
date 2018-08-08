@@ -1,0 +1,21 @@
+# fj21-tarefas
+
+## Dependencies
+- classmate-1.0.0.jar
+- commons-logging-1.1.3.jar
+- hibernate-validator-5.0.2.Final.jar
+- jboss-logging-3.1.1.GA.jar
+- log4j-1.2.17.jar
+- mysql-connector-java-5.1.28-bin.jar
+- slf4j-api-1.7.5.jar
+- slf4j-log4j12-1.7.5.jar
+- spring-aop-4.0.0.RELEASE.jar
+- spring-aspects-4.0.0.RELEASE.jar
+- spring-beans-4.0.0.RELEASE.jar
+- spring-context-4.0.0.RELEASE.jar
+- spring-core-4.0.0.RELEASE.jar
+- spring-expression-4.0.0.RELEASE.jar
+- spring-jdbc-4.0.0.RELEASE.jar
+- spring-web-4.0.0.RELEASE.jar
+- spring-webmvc-4.0.0.RELEASE.jar
+- validation-api-1.1.0.Final.jar
