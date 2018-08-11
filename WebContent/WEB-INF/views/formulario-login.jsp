@@ -5,6 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Pagina de Login</title>
+<link type="text/css" href="resources/css/tarefas.css" rel="stylesheet">
 </head>
 <body>
 	<h2>Página de Login de Tarefas</h2>

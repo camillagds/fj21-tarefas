@@ -1,10 +1,25 @@
 # fj21-tarefas
 
 ## Dependencies
+- antlr-2.7.7.jar
 - classmate-1.0.0.jar
+- commons-dbcp-1.4.jar
 - commons-logging-1.1.3.jar
+- commons-pool-1.6.jar
+- dom4j-1.6.1.jar
+- hibernate-commons-annotations-4.0.4.Final.jar
+- hibernate-core-4.3.0.Final.jar
+- hibernate-entitymanager-4.3.0.Final.jar
+- hibernate-jpa-2.1-api-1.0.0.Final.jar
 - hibernate-validator-5.0.2.Final.jar
+- jandex-1.1.0.Final.jar
+- javassist-3.18.1-GA.jar
+- javax.servlet.jsp.jstl-1.2.1.jar
+- javax.servlet.jsp.jstl-api-1.2.1.jar
 - jboss-logging-3.1.1.GA.jar
+- jboss-logging-3.1.3.GA.jar
+- jboss-logging-annotations-1.2.0.Beta1.jar
+- jboss-transaction-api_1.2_spec-1.0.0.Final.jar
 - log4j-1.2.17.jar
 - mysql-connector-java-5.1.28-bin.jar
 - slf4j-api-1.7.5.jar

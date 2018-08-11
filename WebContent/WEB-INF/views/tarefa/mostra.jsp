@@ -7,6 +7,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Alterar Tarefa</title>
+<link type="text/css" href="resources/css/tarefas.css" rel="stylesheet">
 </head>
 <body>
 	<h3>Alterar tarefa - ${tarefa.id}</h3>
